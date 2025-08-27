@@ -1,0 +1,37 @@
+export const categoryData=[
+    {
+        id:"1",
+        name:"Phones",
+        image:"/image/cell.png"
+    },
+    {
+        id:"2",
+        name:"Computers",
+        image:"/image/Computer.png"
+    },
+    {
+        id:"3",
+        name:"Gaming",
+        image:"/image/Gamepad.png"
+    },
+    {
+        id:"4",
+        name:"Headphones",
+        image:"/image/Headphone.png"
+    },
+    {
+        id:"4",
+        name:"Smart Watchs",
+        image:"/image/SmartWatch.png"
+    },
+    {
+        id:"4",
+        name:"phones",
+        image:"/image/cell.png"
+    },
+    {
+        id:"4",
+        name:"phones",
+        image:"/image/cell.png"
+    },
+]
